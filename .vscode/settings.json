@@ -1,0 +1,51 @@
+{
+    "Lua.runtime.version": "Lua 5.1",
+    "Lua.runtime.builtin": {
+        "basic": "disable",
+        "debug": "disable",
+        "io": "disable",
+        "math": "disable",
+        "os": "disable",
+        "package": "disable",
+        "string": "disable",
+        "table": "disable",
+        "utf8": "disable"
+    },
+    "Lua.workspace.library": [
+        "~\\.vscode\\extensions\\ketho.wow-api-0.21.0\\Annotations\\Core"
+    ],
+    "Lua.diagnostics.globals": [
+        "SlashCmdList",
+        "UISpecialFrames",
+        "ToggleDropDownMenu",
+        "TIMER_MINUTES_DISPLAY",
+        "FlightMapFrame",
+        "StaticPopupDialogs",
+        "UIDROPDOWNMENU_MAXBUTTONS",
+        "UIDropDownMenu_AddButton",
+        "UIDropDownMenuButton_OpenColorPicker",
+        "StaticPopup_Show",
+        "CloseDropDownMenus",
+        "ReloadUI",
+        "OKAY",
+        "CANCEL",
+        "ColorPickerFrame",
+        "ACCEPT",
+        "GameTooltip_Hide",
+        "ITEM_DISENCHANT_NOT_DISENCHANTABLE",
+        "EquipmentFlyoutFrame",
+        "AuctionHouseFrame",
+        "ERR_USE_LOCKED_WITH_SPELL_S",
+        "SPELL_FAILED_NEED_MORE_ITEMS",
+        "NPEV2_ABILITYINITIAL",
+        "NPEV2_CASTER_ABILITYINITIAL",
+        "GetUnitName",
+        "INSTANCE_RESET_SUCCESS",
+        "LOOT_ITEM_SELF",
+        "LOOT_ITEM_SELF_MULTIPLE",
+        "NUM_BAG_SLOTS",
+        "AddonCompartmentFrame",
+        "Settings",
+        "SettingsPanel"
+    ]
+}
